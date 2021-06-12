@@ -1,7 +1,5 @@
-from flask import Flask, jsonify, request
 from fastai.text import *
 import numpy as np
-import os
 from transformers import PreTrainedModel, PreTrainedTokenizer
 
 
@@ -54,7 +52,7 @@ class CustomTransformerModel(nn.Module):
         
 
 def load_model():
-    path = os.getcwd()
+    path = 'app'
     learner = load_learner(path)
     return learner
 
@@ -62,22 +60,12 @@ def load_model():
 def preprocess(text):
     return text
 
-def get_prediction(text):
+def apply(text):
     prediction = learner.predict(preprocess(text))
-    return prediction[1].numpy().tolist(), prediction[2].numpy().tolist()
+    result = [prediction[1].numpy().tolist()]
+    result.extend(prediction[2].numpy().tolist())
+    print(result)
+    return result
 
-app = Flask('_name__')
+
 learner = load_model()
-
-@app.route('/predict', methods=['POST'])
-def predict():
-    if request.method == 'POST':
-        req = request.form
-        label, probs = get_prediction(req['text'])
-        return jsonify({
-            'label': label,
-            'probs': probs
-        })
-
-if __name__ == '__main__':
-    app.run()
