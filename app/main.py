@@ -5,6 +5,11 @@ from app.model import *
 app = Flask('_name__')
 
 
+@app.route('/')
+def home():
+    print('Hello')
+
+
 @app.route('/predict', methods=['POST'])
 def predict():
     if request.method == 'POST':
