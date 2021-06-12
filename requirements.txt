@@ -1,6 +1,7 @@
 numpy==1.20.3
 --find-links https://download.pytorch.org/whl/torch_stable.html
 torch==1.8.1+cpu
+torchvision==0.9.1+cpu
 fastai==1.0.61
 pandas==1.2.4
 Flask==2.0.1
