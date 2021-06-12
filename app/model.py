@@ -47,9 +47,6 @@ def preprocess(text):
     text = text.replace('\s+', ' ')
     text = text.replace(r'(.)\1+',r'\1\1')
 
-    print(text)
-    print(len(text.split()))
-
     if len(text.split()) <= 25:
         return text
 
