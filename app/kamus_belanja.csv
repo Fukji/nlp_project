@@ -1,5 +1,7 @@
 slang,formal
 min,admin
+mimin,admin
+rada,agak
 bags,bagus
 buagus,bagus
 nais,bagus
@@ -7,11 +9,17 @@ barg,barang
 bnib,baru
 bnob,baru
 bnwb,baru
+batre,baterai
+batere,baterai
+batrai,baterai
 cod,bayar
 blnj,belanja
 worth,berharga
 bwat,buat
 dtng,datang
+rekomen,disarankan
+rekomend,disarankan
+rekomended,disarankan
 diskripsi,deskripsi
 desc,deskripsi
 dscrbs,deskripsi
@@ -23,6 +31,8 @@ pics,gambar
 gatel,gatal
 guila,gila
 guile,gila
+lowbat,habis
+lowbet,habis
 hrg,harga
 item,hitam
 joss,jos
@@ -31,6 +41,9 @@ expired,kadaluarsa
 ksng,kosong
 quality,kualitas
 qty,kuantitas
+krg,kurang
+krng,kurang
+kurng,kurang
 anteraja,kurir
 gosend,kurir
 grab,kurir
@@ -42,13 +55,24 @@ mls,malas
 maknyos,mantap
 maknyus,mantap
 mantab,mantap
+mantoel,mantap
+mantol,mantap
 mantul,mantap
 mntb,mantap
 mntp,mantap
+ntab,mantap
+ntabs,mantap
+ntap,mantap
+ntaps,mantap
 mwh,mewah
 mevvah,mewah
 mnggu,minggu
 oke,ok
+original,orisinal
+ory,orisinal
+parh,parah
+prah,parah
+prh,parah
 cust,pelanggan
 customer,pelanggan
 bubblewrap,pengemasan
@@ -56,9 +80,10 @@ peking,pengemasan
 seller,penjual
 pswt,pesawat
 pucet,pucat
-rekomen,disarankan
-rekomend,disarankan
-rekomended,disarankan
+reviw,review
+rview,review
+rvw,review
+matot,rusak
 salm,salam
 nympe,sampai
 overall,secara keseluruhan
@@ -67,12 +92,36 @@ realpict,sesuai gambar
 smga,semoga
 sdh,sudah
 duper,super
+tajem,tajam
+enda,tidak
+engga,tidak
+enggak,tidak
+nga,tidak
+ngk,tidak
+ngga,tidak
+nggak,tidak
+nda,tidak
+ndak,tidak
+ndk,tidak
 kebaca,terbaca
+tks,terima kasih
+tkx,terima kasih
 thankyou,terima kasih
 thx,terima kasih
 tq,terima kasih
 trim,terima kasih
 trims,terima kasih
+bukalapak,toko
+bklapak,toko
+lzd,toko
+lazada,toko
+sopi,toko
+sopee,toko
+shopee,toko
+tokopedia,toko
+tokped,toko
+tokpedia,toko
+toped,toko
 ukrn,ukuran
 wlaupn,walaupun
 wlaupun,walaupun
