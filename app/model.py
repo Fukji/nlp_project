@@ -57,7 +57,7 @@ def preprocess(text):
 def get_prediction(text):
     text = preprocess(text)
     if text is None:
-        return '-1', '-1'
+        return "0" , [0, 0, 0, 0, 0]
 
     prediction = learner.predict(preprocess(text))
     return prediction[1].numpy().tolist(), prediction[2].numpy().tolist()
