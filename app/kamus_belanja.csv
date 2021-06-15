@@ -15,6 +15,7 @@ bubblewrap,pengemasan
 bukalapak,toko
 bwat,buat
 cod,bayar
+cuman,cuma
 cust,pelanggan
 customer,pelanggan
 desc,deskripsi
@@ -29,6 +30,9 @@ engga,tidak
 enggak,tidak
 exp,kadaluarsa
 expired,kadaluarsa
+expres,ekspres
+express,ekspres
+ganjel,ganjal
 gatel,gatal
 gblk,bodoh
 geblek,bodoh
@@ -41,6 +45,7 @@ grabsend,kurir
 guila,gila
 guile,gila
 hrg,harga
+import,impor
 item,hitam
 jne,kurir
 jnt,kurir
@@ -50,6 +55,7 @@ krg,kurang
 krng,kurang
 ksng,kosong
 kurng,kurang
+kwalitas,kualitas
 lazada,toko
 lowbat,habis
 lowbet,habis
@@ -61,6 +67,7 @@ mantoel,mantap
 mantol,mantap
 mantul,mantap
 matot,rusak
+merk,merek
 mevvah,mewah
 mimin,admin
 min,admin
@@ -78,6 +85,7 @@ nga,tidak
 ngga,tidak
 nggak,tidak
 ngk,tidak
+nomer,nomor
 ntab,mantap
 ntabs,mantap
 ntap,mantap
@@ -85,6 +93,7 @@ ntaps,mantap
 nympe,sampai
 oke,ok
 original,orisinal
+orisinil,orisinal
 ory,orisinal
 overall,secara keseluruhan
 packing,pengemasan
@@ -92,29 +101,39 @@ packinga,pengemasan
 parh,parah
 pcking,pengemasan
 pckingan,pengemasan
+pedes,pedas
 peking,pengemasan
 pekingan,pengemasan
 pic,gambar
 pics,gambar
+piye,bagaimana
 pking,pengemasan
 pkingan,pengemasan
 prah,parah
 prh,parah
 pswt,pesawat
 pucet,pucat
+qlty,kualitas
 qty,kuantitas
 quality,kualitas
 rada,agak
 realpic,sesuai gambar
 realpict,sesuai gambar
+rejeki,rezeki
 rekomen,disarankan
 rekomend,disarankan
 rekomended,disarankan
+respon,respons
+response,respons
 reviw,review
 rview,review
 rvw,review
 salm,salam
+sambel,sambal
 sameday,cepat
+sante,santai
+santuy,santai
+santui,santai
 sdh,sudah
 seller,penjual
 shopee,toko
@@ -122,7 +141,9 @@ sicepat,kurir
 smga,semoga
 sopee,toko
 sopi,toko
+sopir,supir
 tajem,tajam
+telpon,telepon
 thankyou,terima kasih
 thx,terima kasih
 tiki,kurir
@@ -133,6 +154,9 @@ tokped,toko
 tokpedia,toko
 toped,toko
 tq,terima kasih
+tranfer,transfer
+tranper,transfer
+transper,transfer
 trim,terima kasih
 trims,terima kasih
 ukrn,ukuran
